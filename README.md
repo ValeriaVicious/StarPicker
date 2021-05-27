@@ -7,3 +7,8 @@
 принципы ООП, чтобы в будущем легко развивать проект добавляя новые фичи.
 
 Все ассеты были взяты из открытых источников и для свободного использования.
+
+![sceneOfGame](https://user-images.githubusercontent.com/59263802/119784296-a4c1c680-bf00-11eb-96fb-e5918c4748da.png)
+![sceneOfGameOverMenu](https://user-images.githubusercontent.com/59263802/119784302-a68b8a00-bf00-11eb-850c-1046c7d3c14a.png)
+![sceneOfMenu](https://user-images.githubusercontent.com/59263802/119784309-a8554d80-bf00-11eb-85b0-7bc16fc6ba5a.png)
+![sceneOfMenuPause](https://user-images.githubusercontent.com/59263802/119784316-a9867a80-bf00-11eb-8274-ef8d99b5c4df.png)
